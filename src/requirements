@@ -1,0 +1,5 @@
+matplotlib
+ephem
+pytz
+numpy
+memory_profiler
