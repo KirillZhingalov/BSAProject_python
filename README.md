@@ -19,5 +19,5 @@ python -m pip install -r requirements
 
 3. В директории ```src/data/pnt_files/``` должны находится pnt файлы
 4. Файл настройки должен находится в директории ```src/data/eqv/```
-5. python main.py
+5. ```python main.py```
 6. enjoy!
